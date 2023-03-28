@@ -1,11 +1,15 @@
-<h1 align="center">Thomas J. Lauer</h1>
-<h2 align="center">GitHub Statistics</h2>
+<h1 align="left">Thomas J. Lauer</h1>
+<!-- <h1 align="center">Thomas J. Lauer</h1> -->
+
+<h2 align="left">GitHub Statistics</h2>
+<!-- <h2 align="center">GitHub Statistics</h2> -->
 
 <!--
 ### Hi there 👋
 -->
 
-<p align="center">
+<!-- <p align="center"> -->
+<p align="left">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=tjlauer&count_private=true&show_icons=true&custom_title=Thomas%20J.%20Lauer%20%28tjlauer%29&theme=dark"
@@ -19,7 +23,8 @@
 </picture>
 </p>
 
-<p align="center"><code>Ranks: S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)</code></p>
+<!-- <p align="center"><code>Ranks: S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)</code></p> -->
+<p align="left"><code>Ranks: S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)</code></p>
 
 <!--
 ![tjlauer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjlauer&count_private=true&show_icons=true&custom_title=Thomas%20J.%20Lauer%20%28tjlauer%29)
